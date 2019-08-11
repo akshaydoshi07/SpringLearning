@@ -1,2 +1,2 @@
-*.jar
-.metadata/*
+/lib/*.jar
+
